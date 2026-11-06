@@ -10,3 +10,7 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 ## Bu depoda neler var?
 
 - [İlk programım](kodlar/merhaba.c)
+
+## Branch isim örnekleri
+
+- ![Branch İsimleri](git-branch-names.png)
