@@ -14,3 +14,8 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 ## Branch isim örnekleri
 
 - ![Branch İsimleri](git-branch-names.png)
+
+## Hobilerim
+
+- Basketbol oynamak
+- Kitap okumak
