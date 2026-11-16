@@ -8,4 +8,4 @@ oluşturduğum ilk depo.
 Ders çalışmak
 
 ## Tavsiyelerim
-![Benim blog] (https://tecrubedenkatreler.com)
+[Benim blog] (https://tecrubedenkatreler.com)
