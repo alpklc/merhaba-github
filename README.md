@@ -6,3 +6,6 @@ oluşturduğum ilk depo.
 
 ## Hobilerim- 
 Ders çalışmak
+
+## Tavsiyelerim
+[Benim blog] [https://tecrubedenkatreler.com]
